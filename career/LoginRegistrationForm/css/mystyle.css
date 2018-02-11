@@ -1,0 +1,32 @@
+.upper{
+	margin-top: 50px;
+}
+.colm{
+margin-top: 50px;
+	
+}
+.colm2{
+padding-top: 20px;
+padding-bottom: 20px;
+
+	
+}
+
+
+.icon{
+    float:right;
+    font-weight:bold;
+ }
+ 
+ .icon:hover{
+     background-color:#eee;
+     border:1px solid gray;
+     border-radius:5px;
+     height: auto;
+     width:2.3%;
+     padding:5px 8px;
+ }
+ 
+ .other_row{
+    margin-top:100px;
+}

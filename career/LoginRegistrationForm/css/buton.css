@@ -1,0 +1,43 @@
+.buton{
+    color:green;
+}
+.img_box{
+	border:1px solid black;
+	width: 34%;
+	height: auto;
+}
+.nav {
+    list-style: none;
+    font-size: 12px;
+}
+.feedback {
+    float: right;
+    color: #fff;
+    background-color: #7d346e;
+    border: 1px solid #eee;
+    padding: 5px 30px;
+}
+
+.backform {
+    background-color: #eee;
+    width: 50%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+        
+    margin-top: 100px;
+    padding: 34px 50px;
+    margin-bottom: 50px;
+    border-radius: 7px;
+	border: 1px solid #ddd3d3;
+}
+
+.backform label {
+    
+    float: left;
+    margin: 5px 6px;
+}
+.upbtn {
+    float: right;
+    padding: 8px 30px;
+}

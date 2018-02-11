@@ -1,0 +1,66 @@
+.heading{
+
+	text-align: center;
+	font-family: "MS Sans-serif", sans-serif, Georgia;
+
+}
+.header{
+	background-color: #288CCA;
+
+    padding: 3px;
+    color: #fff;
+   
+    font-size: 15px;
+
+
+
+
+}
+.para{
+	float:left;
+	
+	margin-left: 2%;
+	margin-top:4%;
+	margin-bottom:2%;
+	padding: 2%;
+	
+	text-align: justify;
+	box-shadow: 2px 2px 5px 5px #888888;
+
+
+}
+.paragraph{
+
+	font-family: "MS Sans-serif", sans-serif, Georgia;
+	font-size: 18px;
+}
+.image{
+	float :right;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top:2%;
+	margin-bottom:2%;
+	padding: 2%;
+
+
+
+}
+.img{
+	 border-radius: 8px;
+	 height: 600px;
+	 width:600px;
+	 
+}
+.footernote{
+	background-color: #288CCA;
+
+    padding: 3px;
+    color: #fff;
+   
+    font-size: 15px;
+     text-align: center;
+
+}
+.cover{
+	background-color: #FFFFFF;
+}

@@ -1,0 +1,33 @@
+.pagination {
+    margin-top: 10px;
+}
+.pagination a {
+    margin: 3px;
+    background-color: #0081ffe6;
+    color: #fff;
+    padding: 6px 10px;
+    border-radius: 8px;
+}
+
+.clock{
+    font-family: 'Orbitron', sans-serif;
+font-size: 28pt;
+color: #669cea;
+margin-top: 70px;
+}
+
+.wrapone {
+    background-color: #358bba;
+    width: 50%;
+    height: auto;
+    margin: 0 auto;
+    padding: 20px 25px;
+    border-radius: 5px;
+    color:#fff;
+}
+
+.upbtn {
+    float: right;
+    padding: 8px 30px;
+    background-color: #070807;
+}
